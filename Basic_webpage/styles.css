@@ -1,0 +1,18 @@
+.flex-container {
+display: flex;
+flex-direction: row;
+justify-content: center;
+background-color: aqua;
+min-height: 500px;
+align-items: center;
+}
+
+.box1 { 
+    padding: 20px;
+
+}
+.box2 {
+
+
+}
+.box3
